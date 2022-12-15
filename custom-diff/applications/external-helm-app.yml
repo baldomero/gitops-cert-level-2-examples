@@ -30,4 +30,4 @@ spec:
   - group: v1
     kind: Secret
     jsonPointers:
-    - /data
+    - /data/my-password
